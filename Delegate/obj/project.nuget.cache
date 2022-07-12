@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hXsxOIyw2fxDD0kSfKcUi+D/7f/Vv33r3C95zETEpIiglRLx4bIULE5AhKpE1zxbn8gpibIgHKaM6VPF/XGi0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\C#\\CodeClassWork\\Delegate\\Delegate\\Delegate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
